@@ -22,5 +22,5 @@ let raqam = prompt("nechchi secondda chiqsi")
 
 let javob = raqam * 1000
 
-let title = new Typing(".0title", javob);
+let title = new Typing(".title", javob);
 let text = new Typing(".text", javob);
